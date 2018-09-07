@@ -3,15 +3,19 @@
 
 This repository contains instructions and questions for a "Table Talk" training/workshop exercise format, with questions related to organizations/teams producing software.
 
+# Context
+
 [Training from the back of the room](https://fromthebackoftheroom.training/a-short-overview-of-training-from-the-back-of-the-room) is a [great book](https://www.amazon.com/Training-Back-Room-Aside-Learn/dp/0787996629) for trainer and facilitor. I use more and more of their advocated practices in my [software related trainings and workshops](https://domain-driven-design.eu/), so here I share the material of the exercise to warm-up such activies called "Table Talk". Feel free to use and contribute to the questions with a pull request.
 
 ## The four key activities - 4Cs
 The "Training from the back of the room" describe four key activites (the 4Cs) for an efficient learning experience:
 
-1. **"Connect" Making the Connections**: people are aroused to their interest and open up to learning.
-2. **"Concept" Explaining the Concepts**: people encounter new knowledge or skills.
-3. **"Concrete Practice" Practicing the Skills**: people practice the new skills using the concepts learned previously.
-4. **"Conclusions" Celebrating the Learning**: people look back to their learning and practice to ensure the remembering and then concrete try out.
+| Name | What? | Benefits |
+| ---- | ---- | ---- |
+| **"Connect"**            | **Making the Connections**   | people are aroused to their interest and open up to learning. |
+| **"Concept"**            | **Explaining the Concepts**  | people encounter new knowledge or skills. |
+| **"Concrete Practice"**  | **Practicing the Skills**    | people practice the new skills using the concepts learned previously.|
+| **"Conclusions"**        | **Celebrating the Learning** | people look back to their learning and practice to ensure the remembering and then concrete try out.|
 
 The "table talk" exercise belongs to the first activity "Connect - Making the Connections"
 
@@ -27,11 +31,13 @@ So enough talking, here are the instructions:
 # "Table Talk" Warm-up Exercise Instructions
 
 * Make groups of 3/4 persons from different teams/roles
-* In each group pick 3 questions from the following list related to each people skills
+* In each group pick 3/4 questions from the following list related to each people skills
 * Take 5 minutes per question to:
    * Discuss the question with your table group
    * Make a one- or two-sentence summary of your discussions
 * Reports your summary to the whole class
+
+The whole exercise should take about 1 hour (15 to 20 minutes for the questions conversations and 30 to 40 minutes for the reporting)
 
 # Questions by role
 
