@@ -4,16 +4,18 @@
 This repository contains instructions and questions for a "Table Talk" training/workshop exercise format, with questions related to organizations/teams producing software.
 
 [Training from the back of the room](https://fromthebackoftheroom.training/a-short-overview-of-training-from-the-back-of-the-room) is a [great book](https://www.amazon.com/Training-Back-Room-Aside-Learn/dp/0787996629) for trainer and facilitor. I use more and more of their advocated practices in my [software related trainings and workshops](https://domain-driven-design.eu/), so here I share the material of the exercise to warm-up such activies called "Table Talk". Feel free to use and contribute to the questions with a pull request.
+
+## The four key activities - 4Cs
 The "Training from the back of the room" describe four key activites (the 4Cs) for an efficient learning experience:
 
-1. "Connect" Making the Connections: activities arouse people to their interest and open up to learning.
-2. "Concept" Explaining the Concepts: people encounter new knowledge or skills.
-3. "Concrete Practice" Practicing the Skills: people practice the new skills using the concepts learned previously.
-4. "Conclusions" Celebrating the Learning: people look back to their learning and practice to ensure the remembering and then concrete try out.
+1. **"Connect" Making the Connections**: people are aroused to their interest and open up to learning.
+2. **"Concept" Explaining the Concepts**: people encounter new knowledge or skills.
+3. **"Concrete Practice" Practicing the Skills**: people practice the new skills using the concepts learned previously.
+4. **"Conclusions" Celebrating the Learning**: people look back to their learning and practice to ensure the remembering and then concrete try out.
 
 The "table talk" exercise belongs to the first activity "Connect - Making the Connections"
 
-## Expected benefits of "Connect" activities
+## Benefits of "Connect" phase
 
 - **Connections with other learners** (in positive and meaningful ways that are relevant to the training topic)
 - **Connections to the topic** (that is, to what they already know, or think they know, about the information to be learned)
@@ -51,8 +53,6 @@ So enough talking, here are the instructions:
 - What's the difference in your understandings of a domain before and after having delivered software? 
 - Do you have examples of insights/breakthrough on the domain you get after a while?
 - Do you have examples of the differences between the "What/How" of a feature and finally getting the "Why"? what simplification could/have been made possible?
-
-
 - how are gathered and structured the operational (aka. non-functional) requirements of the software?
 - Do you have a clear understanding of the dependencies between the modules (in case of a monolith) or the applications composing your company’s Information System? What’s the form of the dependencies documentation?
 - Do you have an experience/example of a system/module with mixed responsibility/concerns? one(s) with good separation of responsibility/concerns? what are the key factors leading to a good/bad separation?
