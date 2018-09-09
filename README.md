@@ -48,6 +48,7 @@ The whole exercise should take about 1 hour (15 to 20 minutes for the questions 
 - What makes a good test case?
 - What's your dream setting with product/domain people? Engineering people? (aka. What to do)
 - What's your worst experience of QA? Why? (aka. What NOT to do)
+- What can be improved to make your work more meaningful to you ?
 
 
 ## I'm an Engineering Person
