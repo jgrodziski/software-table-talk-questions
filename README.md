@@ -2,6 +2,7 @@
 # "Table Talk" questions for software related organizations
 
 This repository contains instructions and questions for a "Table Talk" training/workshop exercise format, with questions related to organizations/teams producing software.
+You can [download a PDF of the instructions and questions](https://github.com/jgrodziski/software-table-talk-questions/raw/master/Workshop-Warm-up-TableTalk.pdf) for immediate use in your workshop.
 
 # Context
 
